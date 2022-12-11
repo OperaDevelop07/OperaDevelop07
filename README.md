@@ -1,5 +1,5 @@
 - 👋 Hi, I’m George Tsigkas
-- 👀 I’m interested in Cloud orchestration,app development,IoT devices and machine learning as well as data analysis/statistic
+- 👀 I’m interested in Cloud orchestration,app development,IoT devices and machine learning as well as data analysis/statistics.
 - 📫 To reach me you can email me at geotsigkasofficial@gmail.com
 
 <!---
