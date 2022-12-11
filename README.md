@@ -1,7 +1,5 @@
 - 👋 Hi, I’m George Tsigkas
-- 👀 I’m interested in web development,app development,IoT devices and machine learning as well as data analysis/statistics.
-- 🌱 I’m currently learning web development tools for making dynamic web sites that are also mobile first.
-- 💞️ I’m looking to collaborate on any project may need some help of any kind they deem fit.
+- 👀 I’m interested in Cloud orchestration,app development,IoT devices and machine learning as well as data analysis/statistic
 - 📫 How to reach me ,you can email me at geotsigkasofficial@gmail.com
 
 <!---
